@@ -2,7 +2,7 @@
 #### 介绍
 一个基于Laravel的博客composer扩展包，专注阅读、支持markdown。
 
-#### 演示：[Inn的博客](https://sunjun.app)
+#### 演示：[博客](https://sunjun.app)
 
 # 快速安装
 环境要求
@@ -53,6 +53,7 @@ php artisan view:clear
 ```
 
 # 依赖
+- [broqiang/mdblog](https://github.com/inn20/blog) 改造于`inn20 博客`的包
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) 一个可以快速帮你构建后台管理的工具
 - [broqiang/mdblog](https://github.com/broqiang/mdblog) 引用了`Bro Qiang 博客`的前端样式
 
